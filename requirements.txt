@@ -1,0 +1,7 @@
+# Connect AI Skill - Python Dependencies
+
+# Core dependencies
+requests>=2.31.0
+
+# Optional: For examples and data processing
+pandas>=2.0.0  # For data analysis examples
