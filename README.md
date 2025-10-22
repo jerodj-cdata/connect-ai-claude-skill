@@ -168,7 +168,7 @@ Call skill directly from scripts, cron, CI/CD - zero LLM tokens!
 
 ## Contributing
 
-This is a CData Connect AI skill. For issues or feature requests, contact CData support.
+This is a public, unofficial skill. For issues or feature requests, contact the author.
 
 ## License
 
